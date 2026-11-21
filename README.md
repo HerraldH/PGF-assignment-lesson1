@@ -1,6 +1,6 @@
 # PGF-assignment-lesson1
 
-Maak een nieuw project aan in PyCharm
+• Maak een nieuw project aan in PyCharm
 
 • Schrijf een verhaal van ongeveer 20 – 50 woorden, waarin je 
 minimaal 5 variabelen zet die de gebruiker zelf moet invullen.
