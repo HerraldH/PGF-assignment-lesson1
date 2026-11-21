@@ -1,13 +1,6 @@
-# Naam gebruiker
 Jouw_Naam = input("Wat is jou naam?: ")
-
-# Naam vriend
 Vriend = input("Hoe heet jou vriend?: ")
-
-# Favoriete sport
 Fav_sport = input("Wat is jou favoriete sport?: ")
-
-# Een boom soort
 Soort_boom = input("Noem een willekeurige boom soort: ")
 
 # Output opdracht
